@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "key": "WHlwZXJYaXQ=",
+    "type": "Permanent",
+    "role": "Developer",
+    "expired": 31537766609794824,
+    "created_at": 1766609794824,
+    "device_limit": 1,
+    "violation_count": 0,
+    "banned_until": 0,
+    "devices": []
+  }
+]
