@@ -24,15 +24,5 @@
     "expired": 1766649593887,
     "created_at": 1766563193887,
     "devices": []
-  },
-  {
-    "key": "VGVz",
-    "type": "1 Day",
-    "expired": 1766688497682,
-    "created_at": 1766602097682,
-    "device_limit": 4,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": []
   }
 ]
