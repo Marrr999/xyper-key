@@ -9,16 +9,5 @@
     "violation_count": 0,
     "banned_until": 0,
     "devices": []
-  },
-  {
-    "key": "dGVz",
-    "type": "1 Day",
-    "role": "User",
-    "expired": 1766696267534,
-    "created_at": 1766609867534,
-    "device_limit": 1,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": []
   }
 ]
