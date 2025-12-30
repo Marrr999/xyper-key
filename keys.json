@@ -6,7 +6,7 @@
     "expired": 31537766609794824,
     "created_at": 1766609794824,
     "device_limit": 1,
-    "violation_count": 2,
+    "violation_count": 3,
     "devices": [
       {
         "mac": "550d3c1ba146aaef",
@@ -16,6 +16,7 @@
         "os": "Android 15",
         "ip": "unknown"
       }
-    ]
+    ],
+    "banned_until": 1767188697574
   }
 ]
