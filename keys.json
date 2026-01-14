@@ -17,25 +17,5 @@
         "ip": "unknown"
       }
     ]
-  },
-  {
-    "key": "WHlwZXJYSVRGcmVlN0RheQ==",
-    "type": "7 Day",
-    "role": "User",
-    "expired": 1768915026999,
-    "created_at": 1768310226999,
-    "device_limit": 500,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": [
-      {
-        "mac": "550d3c1ba146aaef",
-        "device_id": "550d3c1ba146aaef",
-        "device_name": "24069PC21G",
-        "os": "Android 15",
-        "ip": "unknown",
-        "last_used": 1768310549405
-      }
-    ]
   }
 ]
