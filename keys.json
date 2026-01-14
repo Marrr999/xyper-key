@@ -37,16 +37,5 @@
         "last_used": 1768430367214
       }
     ]
-  },
-  {
-    "key": "VGVzdDI=",
-    "type": "1 Day",
-    "role": "User",
-    "expired": 1768516786110,
-    "created_at": 1768430386110,
-    "device_limit": 1,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": []
   }
 ]
