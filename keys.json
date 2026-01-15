@@ -26,31 +26,6 @@
     ]
   },
   {
-    "key": "dGVzdG8=",
-    "type": "1 Day",
-    "role": "User",
-    "expired": 1768518318548,
-    "created_at": 1768431918548,
-    "device_limit": 1,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": [
-      {
-        "device_id": "550d3c1ba146aaef",
-        "device_name": "POCO 24069PC21G (peridot_global)",
-        "manufacturer": "Xiaomi",
-        "model": "24069PC21G",
-        "os_version": "Android 15 (SDK 35)",
-        "board": "peridot",
-        "ip": "114.122.111.165",
-        "last_used": 1768506384366,
-        "first_seen": 1768506384366,
-        "is_active": true,
-        "app_version": "1.0"
-      }
-    ]
-  },
-  {
     "type": "1 Day",
     "role": "User",
     "expired": 1768592869477,
