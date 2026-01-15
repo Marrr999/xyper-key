@@ -51,5 +51,16 @@
         "banned_until": 1768592697165
       }
     ]
+  },
+  {
+    "type": "1 Day",
+    "role": "User",
+    "expired": 1768592869477,
+    "created_at": 1768506469477,
+    "device_limit": 1,
+    "violation_count": 0,
+    "banned_until": 0,
+    "devices": [],
+    "key": "dGVzdDE="
   }
 ]
