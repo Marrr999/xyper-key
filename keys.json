@@ -21,7 +21,8 @@
         "board": "peridot",
         "first_seen": 1768506440601,
         "is_active": true,
-        "app_version": "1.0"
+        "app_version": "1.0",
+        "banned_until": 1768592844988
       }
     ]
   },
