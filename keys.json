@@ -10,11 +10,18 @@
     "devices": [
       {
         "mac": "550d3c1ba146aaef",
-        "last_used": 1768318830172,
+        "last_used": 1768506440601,
         "device_id": "550d3c1ba146aaef",
-        "device_name": "24069PC21G",
+        "device_name": "POCO 24069PC21G (peridot_global)",
         "os": "Android 15",
-        "ip": "unknown"
+        "ip": "114.122.111.165",
+        "manufacturer": "Xiaomi",
+        "model": "24069PC21G",
+        "os_version": "Android 15 (SDK 35)",
+        "board": "peridot",
+        "first_seen": 1768506440601,
+        "is_active": true,
+        "app_version": "1.0"
       }
     ]
   },
