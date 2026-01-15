@@ -72,7 +72,8 @@
         "last_used": 1768506484437,
         "first_seen": 1768506484437,
         "is_active": true,
-        "app_version": "1.0"
+        "app_version": "1.0",
+        "banned_until": 1769716092557
       }
     ],
     "key": "dGVzdDE="
