@@ -10,7 +10,7 @@
     "devices": [
       {
         "mac": "550d3c1ba146aaef",
-        "last_used": 1768591265305,
+        "last_used": 1768591579496,
         "device_id": "550d3c1ba146aaef",
         "device_name": "POCO 24069PC21G (peridot_global)",
         "os": "Android 15",
@@ -19,7 +19,7 @@
         "model": "24069PC21G",
         "os_version": "Android 15 (SDK 35)",
         "board": "peridot",
-        "first_seen": 1768591265305,
+        "first_seen": 1768591579496,
         "is_active": true,
         "app_version": "1.0"
       },
