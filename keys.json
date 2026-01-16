@@ -22,6 +22,19 @@
         "first_seen": 1768506440601,
         "is_active": true,
         "app_version": "1.0"
+      },
+      {
+        "device_id": "aab5ef54eda88b72",
+        "device_name": "POCO 24069PC21G (peridot_global)",
+        "manufacturer": "Xiaomi",
+        "model": "24069PC21G",
+        "os_version": "Android 15 (SDK 35)",
+        "board": "peridot",
+        "ip": "125.163.79.62",
+        "last_used": 1768548690339,
+        "first_seen": 1768548690339,
+        "is_active": true,
+        "app_version": "1.0"
       }
     ]
   },
