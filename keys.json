@@ -56,8 +56,7 @@
           "has_xposed": false,
           "has_frida": false,
           "is_virtual_app": false
-        },
-        "banned_until": 1769123541864
+        }
       },
       {
         "device_id": "aab5ef54eda88b72",
