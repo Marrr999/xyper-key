@@ -138,8 +138,8 @@
         "board": "k69v1_64_k510",
         "os_version": "Android 15 (SDK 35)",
         "ip": "202.65.231.53",
-        "last_used": 1769081723692,
-        "first_seen": 1769081723692,
+        "last_used": 1769081876162,
+        "first_seen": 1769081876162,
         "app_version": "4.0",
         "is_active": true,
         "identity_detail": {
@@ -163,8 +163,8 @@
           "screen_res": "720x1514",
           "density": "360 dpi",
           "ram_total": "3738 MB",
-          "ram_free": "662 MB",
-          "battery_level": "45%",
+          "ram_free": "675 MB",
+          "battery_level": "44%",
           "charging": false,
           "cpu_arch": "arm64-v8a",
           "bootloader": "unknown"
