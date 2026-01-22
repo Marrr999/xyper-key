@@ -72,16 +72,5 @@
         "app_version": "1.0"
       }
     ]
-  },
-  {
-    "type": "7 Day",
-    "role": "User",
-    "expired": 1769683717017,
-    "created_at": 1769078917017,
-    "device_limit": 1,
-    "violation_count": 0,
-    "banned_until": 0,
-    "devices": [],
-    "key": "S2V5RnJlZTdEYXk="
   }
 ]
