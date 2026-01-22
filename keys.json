@@ -186,8 +186,8 @@
         "board": "rosemary",
         "os_version": "Android 13 (SDK 33)",
         "ip": "203.29.26.49",
-        "last_used": 1769081403759,
-        "first_seen": 1769081403759,
+        "last_used": 1769081459172,
+        "first_seen": 1769081459172,
         "app_version": "4.0",
         "is_active": true,
         "identity_detail": {
@@ -211,8 +211,8 @@
           "screen_res": "1080x2268",
           "density": "388 dpi",
           "ram_total": "5590 MB",
-          "ram_free": "2052 MB",
-          "battery_level": "75%",
+          "ram_free": "1702 MB",
+          "battery_level": "74%",
           "charging": false,
           "cpu_arch": "arm64-v8a",
           "bootloader": "unknown"
