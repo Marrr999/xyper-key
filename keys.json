@@ -137,9 +137,9 @@
         "model": "V2332",
         "board": "k69v1_64_k510",
         "os_version": "Android 15 (SDK 35)",
-        "ip": "202.65.231.53",
-        "last_used": 1769081876162,
-        "first_seen": 1769081876162,
+        "ip": "202.65.234.118",
+        "last_used": 1769135317764,
+        "first_seen": 1769135317764,
         "app_version": "4.0",
         "is_active": true,
         "identity_detail": {
@@ -150,7 +150,7 @@
           "app_version": "4.0"
         },
         "location_detail": {
-          "ip": "202.65.231.53",
+          "ip": "202.65.234.118",
           "error": "Connection failed"
         },
         "network_detail": {
@@ -163,8 +163,8 @@
           "screen_res": "720x1514",
           "density": "360 dpi",
           "ram_total": "3738 MB",
-          "ram_free": "675 MB",
-          "battery_level": "44%",
+          "ram_free": "1172 MB",
+          "battery_level": "87%",
           "charging": false,
           "cpu_arch": "arm64-v8a",
           "bootloader": "unknown"
