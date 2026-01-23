@@ -273,6 +273,54 @@
           "has_frida": false,
           "is_virtual_app": false
         }
+      },
+      {
+        "device_id": "4f53c13b5c36efaf",
+        "device_name": "TECNO TECNO LH7n (LH7n-GL)",
+        "manufacturer": "TECNO",
+        "model": "TECNO LH7n",
+        "board": "TECNO-LH7n",
+        "os_version": "Android 14 (SDK 34)",
+        "ip": "163.227.143.22",
+        "last_used": 1769172171567,
+        "first_seen": 1769172171567,
+        "app_version": "4.0",
+        "is_active": true,
+        "identity_detail": {
+          "device_id": "4f53c13b5c36efaf",
+          "user_device_name": "TECNO TECNO LH7n (LH7n-GL)",
+          "android_id": "4f53c13b5c36efaf",
+          "language": "in_ID",
+          "app_version": "4.0"
+        },
+        "location_detail": {
+          "ip": "163.227.143.22",
+          "error": "Connection failed"
+        },
+        "network_detail": {
+          "carrier_network": "Indosat Ooredoo",
+          "carrier_sim": "Indosat Ooredoo",
+          "country_iso": "ID",
+          "network_type_int": 0
+        },
+        "specs_detail": {
+          "screen_res": "1080x2352",
+          "density": "384 dpi",
+          "ram_total": "7685 MB",
+          "ram_free": "2305 MB",
+          "battery_level": "4%",
+          "charging": false,
+          "cpu_arch": "arm64-v8a",
+          "bootloader": "unknown"
+        },
+        "security_detail": {
+          "is_rooted": false,
+          "is_emulator": false,
+          "is_debugged": false,
+          "has_xposed": false,
+          "has_frida": false,
+          "is_virtual_app": false
+        }
       }
     ],
     "key": "WHlwZXJGcmVlN0RheQ=="
