@@ -10,7 +10,7 @@
     "devices": [
       {
         "mac": "550d3c1ba146aaef",
-        "last_used": 1769513257009,
+        "last_used": 1769513919722,
         "device_id": "550d3c1ba146aaef",
         "device_name": "POCO 24069PC21G (peridot_global)",
         "os": "Android 15",
@@ -19,15 +19,15 @@
         "model": "24069PC21G",
         "os_version": "Android 15 (SDK 35)",
         "board": "peridot",
-        "first_seen": 1769513257009,
+        "first_seen": 1769513919722,
         "is_active": true,
-        "app_version": "4.4.1",
+        "app_version": "4.0",
         "identity_detail": {
           "device_id": "550d3c1ba146aaef",
           "user_device_name": "POCO 24069PC21G (peridot_global)",
           "android_id": "550d3c1ba146aaef",
           "language": "in_ID",
-          "app_version": "4.4.1"
+          "app_version": "4.0"
         },
         "location_detail": {
           "ip": "125.163.76.30",
@@ -40,11 +40,11 @@
           "network_type_int": 0
         },
         "specs_detail": {
-          "screen_res": "2606x1172",
+          "screen_res": "1220x2558",
           "density": "480 dpi",
           "ram_total": "11272 MB",
-          "ram_free": "5044 MB",
-          "battery_level": "60%",
+          "ram_free": "4370 MB",
+          "battery_level": "69%",
           "charging": true,
           "cpu_arch": "arm64-v8a",
           "bootloader": "unknown"
