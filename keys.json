@@ -10,16 +10,16 @@
     "devices": [
       {
         "mac": "550d3c1ba146aaef",
-        "last_used": 1769640515962,
+        "last_used": 1769689774168,
         "device_id": "550d3c1ba146aaef",
         "device_name": "POCO 24069PC21G (peridot_global)",
         "os": "Android 15",
-        "ip": "114.122.69.254",
+        "ip": "114.122.76.242",
         "manufacturer": "Xiaomi",
         "model": "24069PC21G",
         "os_version": "Android 15 (SDK 35)",
         "board": "peridot",
-        "first_seen": 1769640515962,
+        "first_seen": 1769689774168,
         "is_active": true,
         "app_version": "4.0",
         "identity_detail": {
@@ -30,7 +30,7 @@
           "app_version": "4.0"
         },
         "location_detail": {
-          "ip": "114.122.69.254",
+          "ip": "114.122.76.242",
           "error": "Connection failed"
         },
         "network_detail": {
@@ -43,9 +43,9 @@
           "screen_res": "1220x2558",
           "density": "480 dpi",
           "ram_total": "11272 MB",
-          "ram_free": "3983 MB",
-          "battery_level": "68%",
-          "charging": false,
+          "ram_free": "3687 MB",
+          "battery_level": "38%",
+          "charging": true,
           "cpu_arch": "arm64-v8a",
           "bootloader": "unknown"
         },
