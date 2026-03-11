@@ -324,5 +324,16 @@
       }
     ],
     "key": "WHlwZXJGcmVlN0RheQ=="
+  },
+  {
+    "type": "1 Day",
+    "role": "User",
+    "expired": 1773324100694,
+    "created_at": 1773237700694,
+    "device_limit": 1,
+    "violation_count": 0,
+    "banned_until": 0,
+    "devices": [],
+    "key": "VGVzdGluZw=="
   }
 ]
